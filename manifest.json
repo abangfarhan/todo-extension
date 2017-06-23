@@ -1,0 +1,10 @@
+{
+  "name": "To-Do New Tab",
+  "description": "Overrides the new tab page with to-do list",
+  "version": "0.1",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "manifest_version": 2
+}
